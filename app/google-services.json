@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995811513400",
+    "firebase_url": "https://zadanie3-adbb2.firebaseio.com",
+    "project_id": "zadanie3-adbb2",
+    "storage_bucket": "zadanie3-adbb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995811513400:android:fca85cd0746931da7942cd",
+        "android_client_info": {
+          "package_name": "com.example.hw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995811513400-8hfa7fv5glcg33u23m176l0h4ckls9ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4uJm3zfQYQP29_upXTYaqBGf7gAlJ78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995811513400-8hfa7fv5glcg33u23m176l0h4ckls9ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

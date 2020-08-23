@@ -1,0 +1,16 @@
+<resources>
+    <string name="address">Address</string>
+    <string name="app_name">HW3</string>
+    <string name="thisFieldCannotBeEmpty">This value cannot be empty</string>
+    <string name="dialog_confirm">Yes</string>
+    <string name="dialog_cancel">No</string>
+    <string name="callingdialog">calling dialog</string>
+    <string name="delete_dialog_tag">delete dialog</string>
+    <string name="Company">Company Name</string>
+    <string name="Contact">Contact Person</string>
+    <string name="Number">Telephone Number</string>
+    <string name="add">Add</string>
+    <string name="deleteicon">deleteIcon</string>
+    <string name="saveButton">save</string>
+    <string name="delete_question">You want to delete this customer?</string>
+</resources>
